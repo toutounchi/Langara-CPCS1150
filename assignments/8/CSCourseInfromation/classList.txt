@@ -1,0 +1,25 @@
+ID:Name:Final
+
+18273640:Annette Adams:98
+93840219:Mary Beard:87
+23958552:Antoinette Brown:79
+23958231:Claribel Cone:78
+23958548:Ema Chang:69
+23958664:Heesook Kim:98
+23958115:Larry Liu:98
+23958238:Brad Lee:53
+18273165:Eric Ko:95
+18273239:Richard Ko:96
+18273475:Shawn Tornton:98
+18273427:Omar Maghardi:78
+18273975:Scott Yau:59
+18273231:Glenn Ikonomov:86
+92839115:Scott Trouchon:69
+92839985:Patric Zhou:88
+92839344:Zhanfang Li:82
+92839342:Robert Bloomingdale:91
+92839633:Patricia Garibaldi:59
+92839654:Svetlana Rusova:48
+92839443:Aleksei Titov:99
+92839864:Xiaowei Young:96
+92839428:Guan Wang:46
